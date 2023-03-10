@@ -1,5 +1,20 @@
 # affiliated
 
+![Dashboard](https://user-images.githubusercontent.com/11637810/224386549-7caa4d7d-5af2-4487-89e9-558d37660fe5.png)
+
+![affiliate](https://user-images.githubusercontent.com/11637810/224386591-1849cfed-50dd-4f64-8247-0f8002646499.png)
+
+![banner](https://user-images.githubusercontent.com/11637810/224386605-f5198864-a4e6-4f49-afe0-58541ef5b5cf.png)
+
+![links](https://user-images.githubusercontent.com/11637810/224386623-0c6b466b-1c4c-49b5-8bcc-66a92f69c4e4.png)
+
+![add affiliate](https://user-images.githubusercontent.com/11637810/224386681-1c196132-1e1e-43ad-8e00-3a1216cbb789.png)
+
+![add banner](https://user-images.githubusercontent.com/11637810/224386700-24cd3c9b-1de5-42d3-b18e-24d2f48a80c2.png)
+
+![add link](https://user-images.githubusercontent.com/11637810/224386726-5bda4e03-520d-4826-a688-4e6bc001a89a.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
